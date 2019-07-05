@@ -1,0 +1,5 @@
+/* pages/home/home.wxss */
+.btn{
+  width: 200px;
+  height: 200px;
+}
